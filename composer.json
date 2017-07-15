@@ -1,5 +1,5 @@
 {
-    "name": "cloudwp/statsd",
+    "name": "cloudwp/statsd-php",
     "type": "library",
     "description": "a PHP client for statsd",
     "keywords": ["monitoring", "statsd", "statistics", "metrics", "udp"],
